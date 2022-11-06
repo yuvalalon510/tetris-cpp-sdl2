@@ -14,7 +14,7 @@ My Tetris clone in C++ with SDL2.
   * Download the source code
   * Compile:
   ```
-  g++ *.c -lSDL2 -lSDL2_image -lSDL2_ttf -o tetris
+  g++ *.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -o tetris
   ```
   * Run:
   ```
