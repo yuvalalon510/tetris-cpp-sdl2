@@ -11,6 +11,11 @@ My Tetris clone in C++ with SDL2.
  
 # Installation (on Linux)
   * Install dependencies
+  ```
+  (On Debian based systems)
+  
+  sudo apt install libsdl2-2.0-0 libsdl2-image-2.0-0 libsdl2-ttf-2.0-0
+  ```
   * Download the source code
   * Compile:
   ```
@@ -23,6 +28,6 @@ My Tetris clone in C++ with SDL2.
   
 # Controls
   * [Left-Arrow]/[Right-Arrow] - Move piece left/right
-  * [A]/[D] - Rotate piece anti-clockwise/clockwise
   * [Down-Arrow] - Move piece one row down
+  * [A]/[D] - Rotate piece counter-clockwise/clockwise
   * [Space] - Drop piece
